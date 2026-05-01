@@ -1,4 +1,4 @@
 # apna-demo
 this is my first git repo
 <br>
-Author-Sonam Singh
+Author-Sonam Singh(Rajput)
